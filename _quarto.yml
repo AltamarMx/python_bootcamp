@@ -1,0 +1,16 @@
+project:
+  type: website
+
+website:
+  title: "Python Bootcamp"
+  description: "Aprende Python desde cero en nuestro bootcamp intensivo."
+  navbar:
+    right:
+      - text: "Home"
+        href: index.qmd
+      - text: "About"
+        href: about.qmd
+      - text: "Schedule"
+        href: schedule.qmd
+      - text: "Sign Up"
+        href: signup.qmd

@@ -1,0 +1,20 @@
+---
+title: "Bootcamp Schedule"
+format: html
+---
+
+# Schedule
+
+## Week 1
+- **Day 1:** Introduction to Python
+- **Day 2:** Data Types and Variables
+- **Day 3:** Control Flow
+- **Day 4:** Functions
+- **Day 5:** Working with Files
+
+## Week 2
+- **Day 6:** Introduction to pandas
+- **Day 7:** Data Analysis with pandas
+- **Day 8:** Data Visualization with matplotlib
+- **Day 9:** Object-Oriented Programming
+- **Day 10:** Final Project

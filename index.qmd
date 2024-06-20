@@ -1,0 +1,38 @@
+---
+title: "Python Bootcamp"
+subtitle: "Aprende Python desde cero"
+author: "Organizado por [Tu Organización]"
+date: "`r Sys.Date()`"
+format: html
+image: "path/to/your/image.jpg" # Puedes añadir una imagen relevante
+---
+
+# Bienvenidos al Python Bootcamp
+
+¡Únete a nuestro bootcamp intensivo de Python y adquiere habilidades fundamentales en programación!
+
+## ¿Qué aprenderás?
+
+- Fundamentos de Python
+- Estructuras de datos
+- Manipulación y análisis de datos con pandas
+- Visualización de datos
+- Principios de programación orientada a objetos
+- Buenas prácticas de desarrollo
+
+## ¿Quiénes pueden participar?
+
+Este bootcamp está diseñado para principiantes y personas con conocimientos básicos en programación que deseen profundizar en Python.
+
+## ¿Cuándo y dónde?
+
+- **Fecha:** Del 1 al 15 de agosto de 2024
+- **Lugar:** En línea a través de Zoom
+
+## Registro
+
+Inscríbete [aquí](signup.qmd) para reservar tu lugar.
+
+## Contacto
+
+Si tienes alguna pregunta, no dudes en [contactarnos](mailto:info@tuorganizacion.com).

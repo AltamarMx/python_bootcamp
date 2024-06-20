@@ -1,0 +1,8 @@
+---
+title: "About the Bootcamp"
+format: html
+---
+
+# About the Python Bootcamp
+
+Este bootcamp está organizado por expertos en Python con años de experiencia en la industria y la academia. Nuestro objetivo es proporcionarte una formación intensiva y práctica para que puedas empezar a utilizar Python de manera efectiva en tus proyectos personales y profesionales.
