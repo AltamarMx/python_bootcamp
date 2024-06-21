@@ -9,7 +9,13 @@ image: "path/to/your/image.jpg" # Puedes añadir una imagen relevante
 
 # Bienvenidos al Python Bootcamp
 
-¡Únete a nuestro bootcamp intensivo de Python y adquiere habilidades fundamentales en programación!
+Python se ha posicionado como uno de los lenguajes más utilizados en la industria de la programación y de la ciencia de datos debido a su practicidad para el manejo de datos y series temporales, además de contar con diversas paqueterías especializadas en el análisis y visualización de datos. 
+
+En este bootcamp de dos semanas aprenderás desde cómo instalar Python y Jupyter notebook hasta cómo dominar la visualización y herramientas útiles para el manejo y análisis de series temporales. 
+El bootcamp está dividido en dos partes, durante la semana 1 se aprenden los conceptos básicos de Python y de manejo de series temporales y cómo visualizarlas. En la semana 2 se abordan tres proyectos y las herramientas necesarias para desarrollarlo para alcanzar un expertiz en el manejo de series temporales.
+
+Si inicias en Python, te recomendamos tomar las dos semanas, si ya tienes experiencia en los conceptos básicos puedes unirte en la segunda semana.
+
 
 ## ¿Qué aprenderás?
 
@@ -22,17 +28,46 @@ image: "path/to/your/image.jpg" # Puedes añadir una imagen relevante
 
 ## ¿Quiénes pueden participar?
 
-Este bootcamp está diseñado para principiantes y personas con conocimientos básicos en programación que deseen profundizar en Python.
+Estudiantes de tercer semestre de ingeniería en adelante
+
+Personas que requieran manejo y visualización de series temporales
+
 
 ## ¿Cuándo y dónde?
 
-- **Fecha:** Del 1 al 15 de agosto de 2024
-- **Lugar:** En línea a través de Zoom
+- **Duración**: 40 horas en total de las dos semanas
+- **Fecha:** 
+    - Semana 1: 5 al 9 de agosto de 2024
+    - Semana 2: 12 al 16 de agosto de 2024
+- **Lugar:** 
+    - Presencial en las instalaciones del IER o 
+    - Sesiones a distancia a través de Zoom
+
+## Requisitos:
+- Computadora con espacio de 2 GB para instalar Python y Jupyter notebook
+- Permisos de administrador  para poder instalar programas en la computadora
+- Familiaridad con series temporales
+
+## Precios
+
+### Bootcamp por semana
+
+| Inversión general | Comunidad académica y exalumnos UNAM** | Comunidad estudiantil** |
+|-------------------|---------------------------------------|-------------------------|
+| $1,250 MXN*       | $1,000 MXN*                            | $750 MXN*               |
+
+### Bootcamp completo
+
+| Inversión general | Comunidad académica y exalumnos UNAM** | Comunidad estudiantil** |
+|-------------------|---------------------------------------|-------------------------|
+| $2,500 MXN*       | $2,000 MXN*                            | $1,500 MXN*             |
+
+¿Perteneces a la Comunidad estudiantil del IER UNAM? Pregunta por los descuentos adicionales a los publicados.
 
 ## Registro
 
-Inscríbete [aquí](signup.qmd) para reservar tu lugar.
+Inscríbete [aquí](https://forms.gle/314S3BKSsb9DsqkZ9) para reservar tu lugar.
 
 ## Contacto
 
-Si tienes alguna pregunta, no dudes en [contactarnos](mailto:info@tuorganizacion.com).
+Si tienes alguna pregunta, no dudes en [contactarnos](mailto:uec@ier.unam.mx).

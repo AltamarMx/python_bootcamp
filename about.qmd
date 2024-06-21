@@ -1,8 +1,33 @@
 ---
-title: "About the Bootcamp"
+title: "Ponentes"
 format: html
 ---
 
-# About the Python Bootcamp
+# Conoce a nuestros expertos
 
-Este bootcamp está organizado por expertos en Python con años de experiencia en la industria y la academia. Nuestro objetivo es proporcionarte una formación intensiva y práctica para que puedas empezar a utilizar Python de manera efectiva en tus proyectos personales y profesionales.
+### Guillermo Barrios del Valle
+<div style="display: flex; align-items: center;">
+  <img src="images/canul3.png" alt="Descripción de la imagen" style="width: 150px; margin-right: 20px;">
+  <p>Guillermo Barrios del Valle, es ingeniero mecánico electricista por formación, maestro y doctor en ingeniería por la UNAM. Su especialidad es la transferencia de calor y ha orientado su investigación hacia los métodos numéricos para resolver problemas de transferencia de calor y masa en edificaciones y a la evaluación térmica y energética de edificaciones.
+    Su viaje en la programación comenzó con la necesidad de resolver problemas numéricos  de mecánica de fluidos y luego descubrió el poder de Python sus aplicaciones para realizar el análisis y monitoreo térmico y energético de edificaciones. Entusiasta de las tecnologías, de la visualización de datos, procafeína leyendo la documentación.
+    Guillermo Barrios ha contribuido significativamente al campo de la ingeniería con el desarrollo, junto con grupo de Energía en Edificaciones, quienes crearon EnerHabitat, una herramienta en línea y gratuita para evaluar el desempeño térmico de muros y techos en edificaciones. Su compromiso con la innovación se refleja en su coautoría del método EHLS, diseñado para implementar en EnergyPlus la transferencia de calor en sistemas constructivos no homogéneos, como es el caso del bloque hueco de concreto. Además, ha participado activamente en dos patentes: un laboratorio especializado en evaluar el desempeño térmico de sistemas constructivos y un dispositivo didáctico para la visualización y comprensión del flujo de calor dependiente del tiempo.</p>
+</div>
+
+
+
+### Kevin Alquicira Hernández
+<div style="display: flex; align-items: center;">
+  <img src="images/canul2.png" alt="Descripción de la imagen" style="width: 150px; margin-right: 20px;">
+  <p>Técnico académico en el Instituto de Energías Renovables de la UNAM. Es  desarrollador de software desde hace 13 años. Sus áreas de aplicación en cómputo son como administrador de servidores linux, administrador de cómputo de alto rendimiento y administrador de sistemas.
+Gran parte de su experiencia profesional ha sido programando en Python para procesar grandes volúmenes de datos, scripts de automatización, administración de servidores y desarrollo de programas para análisis de datos.</p>
+</div>
+
+
+
+### Diego Arturo Canul Reyes
+
+<div style="display: flex; align-items: center;">
+  <img src="images/canul1.png" alt="Descripción de la imagen" style="width: 150px; margin-right: 20px;">
+  <p>Es Ingeniero en Energía por parte de la Universidad Autónoma de Campeche y Maestro en Ingeniería por el Instituto de Energías Renovables de la UNAM (IER-UNAM), obteniendo ambos grados con mención honorífica. Actualmente, es candidato a Doctor en Ingeniería en el IER-UNAM. Sus intereses profesionales están enfocados al análisis y modelado del recurso eólico utilizando datos experimentales y modelos meteorológicos, así como el análisis dinámico de turbinas eólicas flotantes. Es un apasionado de la programación en Python, del cual ha impartido diversos cursos desde lo básico hasta sus aplicaciones en
+ingeniería y es egresado de la “1ˢᵗ Advanced Scientific Programming in Python – Latin America” (ASPP LatAm)</p>
+</div>

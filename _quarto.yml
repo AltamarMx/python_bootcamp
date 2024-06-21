@@ -3,14 +3,12 @@ project:
 
 website:
   title: "Python Bootcamp"
-  description: "Aprende Python desde cero en nuestro bootcamp intensivo."
+  description: "Domina el manejo y visualización de series temporales"
   navbar:
     right:
       - text: "Home"
         href: index.qmd
-      - text: "About"
+      - text: "Ponentes"
         href: about.qmd
-      - text: "Schedule"
+      - text: "Temario"
         href: schedule.qmd
-      - text: "Sign Up"
-        href: signup.qmd

@@ -1,20 +1,164 @@
 ---
-title: "Bootcamp Schedule"
+title: "Temario"
 format: html
 ---
 
-# Schedule
 
-## Week 1
-- **Day 1:** Introduction to Python
-- **Day 2:** Data Types and Variables
-- **Day 3:** Control Flow
-- **Day 4:** Functions
-- **Day 5:** Working with Files
+## Semana 1
+**Objetivo:** Aprender los conceptos básicos de Python, la libreta de Jupyter y el manejo básico y visualización de series temporales con Pandas y Matplotlib.
 
-## Week 2
-- **Day 6:** Introduction to pandas
-- **Day 7:** Data Analysis with pandas
-- **Day 8:** Data Visualization with matplotlib
-- **Day 9:** Object-Oriented Programming
-- **Day 10:** Final Project
+### Día 1
+<!-- ### Sesión 1 -->
+- Qué es Python y la libreta de Jupyter
+- Por qué no Anaconda, ventajas y desventajas de Google Collaboratory
+- Instala y ejecuta Jupyter Notebook en diferentes OS
+- Ejercicio: Instala Jupyter notebook 
+
+<!-- ### Sesión 2 -->
+- Paseo por la libreta de Jupyter
+- Sintaxis en Python
+- Tipos de celdas
+- Ejecuta Jupyter donde quieres
+- Estructura de archivos recomendada con numeración libretas
+- Ejercicio: print(“hola mundo”) con botones y shortcuts
+
+<!-- ### Sesión 3 -->
+- Acceso a la documentación
+- Errores comunes
+- Ejercicio: Crea un espacio de trabajo e imagina tu proceso con numeración de libretas, archivos de datos, resultados
+
+### Día 2
+<!-- ### Sesión 4 -->
+- Enteros, dobles, complejos
+- Cadenas
+- Booleanos
+
+<!-- ### Sesión 5 -->
+- Listas
+- Tuplas
+
+<!-- ### Sesión 6 -->
+- Iterables
+- Uso simple de print()
+- Ejercicios con listas, tuplas y diccionarios
+
+### Día 3
+<!-- ### Sesión 7 -->
+- if
+- while
+- for
+- range
+- Uso de variables iterables en ciclos for 
+
+<!-- ### Sesión 8 -->
+- Funciones
+
+<!-- ### Sesión 9 -->
+- List comprehension
+- Magic commands 
+- Ejercicios con list comprehensions
+
+### Día 4
+- Introducción a pandas
+- Carga datos de csv y hojas de cálculo
+- df.read_csv
+- df.read_excel xls y xlsx
+- df.read_csv con fecha completa
+- df.read_csv con fecha separada
+- df.info()
+- df.describe()
+- df.dtypes
+
+<!-- ### Sesión 11 -->
+- Operaciones y visualización de datos tipo x,y
+- Crear archivo x,y,error desde la libreta de Jupyter
+- Visualizar archivo con df.plot
+
+<!-- ### Sesión 12 -->
+- Operaciones y visualización de datos categóricos
+- Ejemplo del SNI
+
+### Día 5
+- Carga y visualiza series temporales
+- df.plot(subplots=True,figsize)
+- df[lista].plot()
+- df[fecha].plot()
+- df[fecha][lista].plot()
+- df.variable.plot()
+
+<!-- ### Sesión 14-->
+- Operaciones básicas con series temporales
+- df.sum() aclarar que se puede df.variable.sum() df[lista].sum(), df[fecha].variable.sum()
+- df.between_time
+- Une dos archivos o más
+- pd.concat y pd.merge con mismo indice temporal y diferente
+
+<!-- ### Sesión 15 -->
+- Introducción a matplotlib y POO
+
+## Semana 2
+**Objetivo:** Aprender estrategias avanzadas de Pandas, Numpy y Matplotlib así como buenas estrategias de desarrollo de proyectos de ciencia de datos mediante el desarrollo de tres proyectos.
+### Día 1
+- Bienvenida y dinámica de la semana de proyectos
+- Repos con datos y plantillas
+- Post it por si requieren apoyo
+- Deben seleccionar un proyecto de los tres que se presentaran
+- Planteamiento del proyecto 
+- opencv
+- Extrae imágenes de un video
+- f-print para renombrar archivos
+- Escribir paquetes locales para uso en Jupyter
+- Lee una imagen con numpy
+- Lee una imagen con opencv
+- Visualiza una imagen con matplotlib
+
+
+- Localiza un círculo y su centro con opencv
+- Ejercicio: Localiza el centro de un conjunto de imágenes
+
+
+- Ejercicio: Calcula la velocidad y aceleración de caída de un objeto
+- Tips para calcular la velocidad
+
+### Día 2
+- Planteamiento del proyecto de análisis y visualización meteorológica
+- Quarto: convierte una libreta de Jupyter a un reporte
+- Ipywidgets para interacciones en la libreta de Jupyter
+- Instala iertools desde repositorios
+
+
+- Ejercicio: Propón un reporte de visualización de un archivo de clima
+
+
+- Revisión del reporte de visualización
+- Presentación de un ejemplo desarrollado en Quarto
+
+### Día 3
+- Planteamiento del proyecto Patrones climáticos y su impacto en la demanda eléctrica
+- Presentación de los datos meteorológicos y de la demanda eléctrica
+- Cartopy - Ubicación espacial
+- Identificación de las variables de interés (correlaciones entre la demanda y otras variables)
+- Análisis estadísticos y valores anómalos
+
+- Ajuste de polinomios entre la demanda y las variables 
+- Identificación de tendencias 
+- Diferentes visualizaciones: boxplots, violin, swarm, jointplot
+
+- Diferentes escalas temporales (heatmap)
+- Identificación de patrones
+
+### Día 4
+- fig, ax, todo lo que necesitas saber de matplotlib
+- Bokeh
+- Ambientes virtuales
+
+- Numpy
+- Quarto para presentaciones y documentos ( Parte 2)
+
+- Datos categoricos avanzados
+- Desarrollo de proyecto
+
+### Día 5
+- Presentación de proyectos
+- Cierre, recapitulación de buenas prácticas
+
