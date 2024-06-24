@@ -3,7 +3,7 @@ title: "Temario"
 format: html
 ---
 
-
+::: {.panel-tabset}
 ## Semana 1
 **Objetivo:** Aprender los conceptos básicos de Python, la libreta de Jupyter y el manejo básico y visualización de series temporales con Pandas y Matplotlib.
 
@@ -98,6 +98,7 @@ format: html
 
 ## Semana 2
 **Objetivo:** Aprender estrategias avanzadas de Pandas, Numpy y Matplotlib así como buenas estrategias de desarrollo de proyectos de ciencia de datos mediante el desarrollo de tres proyectos.
+
 ### Día 1
 - Bienvenida y dinámica de la semana de proyectos
 - Repos con datos y plantillas
@@ -161,4 +162,4 @@ format: html
 ### Día 5
 - Presentación de proyectos
 - Cierre, recapitulación de buenas prácticas
-
+:::
