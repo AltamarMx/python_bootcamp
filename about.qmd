@@ -5,7 +5,6 @@ format: html
 
 # Conoce a nuestros expertos
 
-::: {.panel-tabset}
 ## Guillermo Barrios del Valle
 <div style="display: flex; align-items: center;">
   <img src="images/canul3.png" alt="Descripción de la imagen" style="width: 150px; margin-right: 20px;">
@@ -32,5 +31,3 @@ Gran parte de su experiencia profesional ha sido programando en Python para proc
   <p>Es Ingeniero en Energía por parte de la Universidad Autónoma de Campeche y Maestro en Ingeniería por el Instituto de Energías Renovables de la UNAM (IER-UNAM), obteniendo ambos grados con mención honorífica. Actualmente, es candidato a Doctor en Ingeniería en el IER-UNAM. Sus intereses profesionales están enfocados al análisis y modelado del recurso eólico utilizando datos experimentales y modelos meteorológicos, así como el análisis dinámico de turbinas eólicas flotantes. Es un apasionado de la programación en Python, del cual ha impartido diversos cursos desde lo básico hasta sus aplicaciones en
 ingeniería y es egresado de la “1ˢᵗ Advanced Scientific Programming in Python – Latin America” (ASPP LatAm)</p>
 </div>
-
-:::
