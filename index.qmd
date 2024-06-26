@@ -1,8 +1,8 @@
 ---
 title: "Python Bootcamp"
 subtitle: "Domina el manejo y visualización de series temporales"
-author: "IER-UNAM"
-date: "5 al 16 de agosto 2024"
+author: ""
+date: ""
 format:
   html:
     css: styles.css
@@ -36,8 +36,10 @@ Puedes hacerlo de manera presencial o de manera remota. Las sesiones se llevan a
 
 
 ::: {.callout-note }
-## Una o dos semanas
-El bootcamp está dividido en **dos partes**, durante la **semana 1** se aprenden los conceptos básicos de Python y de manejo de series temporales y cómo visualizarlas. En la **semana 2** se abordan tres proyectos y las herramientas necesarias para desarrollarlo para alcanzar un expertiz en el manejo de series temporales.
+## Bootcamp de UNA o DOS semanas
+El bootcamp está dividido en **dos partes**, durante la **semana 1** se aprenden los conceptos básicos de Python y de manejo de series temporales y cómo visualizarlas. 
+
+En la **semana 2** se abordan tres proyectos y las herramientas necesarias para desarrollarlo para alcanzar un expertiz en el manejo de series temporales.
 :::
 
 ::: {.callout-tip }
@@ -118,46 +120,9 @@ Personas que requieran manejo y visualización de series temporales
 
 ¿Perteneces a la Comunidad estudiantil del IER UNAM? Pregunta por los descuentos adicionales a los publicados.
 
-## Registro
-
-Inscríbete [aquí](https://forms.gle/314S3BKSsb9DsqkZ9) para reservar tu lugar.
-
 ## Contacto
 
 Si tienes alguna pregunta, no dudes en [contactarnos](mailto:uec@ier.unam.mx).
-
-
-
-
-# Conoce a nuestros expertos
-
-## Guillermo Barrios del Valle
-<div style="display: flex; align-items: center;">
-  <img src="images/canul3.png" alt="Descripción de la imagen" style="width: 150px; margin-right: 20px;">
-  <p>Es ingeniero mecánico electricista por formación, maestro y doctor en ingeniería por la UNAM. Su especialidad es la transferencia de calor y ha orientado su investigación hacia los métodos numéricos para resolver problemas de transferencia de calor y masa en edificaciones y a la evaluación térmica y energética de edificaciones.
-    Su viaje en la programación comenzó con la necesidad de resolver problemas numéricos  de mecánica de fluidos y luego descubrió el poder de Python sus aplicaciones para realizar el análisis y monitoreo térmico y energético de edificaciones. Entusiasta de las tecnologías, de la visualización de datos, procafeína leyendo la documentación.
-    Guillermo Barrios ha contribuido significativamente al campo de la ingeniería con el desarrollo, junto con grupo de Energía en Edificaciones, quienes crearon EnerHabitat, una herramienta en línea y gratuita para evaluar el desempeño térmico de muros y techos en edificaciones. Su compromiso con la innovación se refleja en su coautoría del método EHLS, diseñado para implementar en EnergyPlus la transferencia de calor en sistemas constructivos no homogéneos, como es el caso del bloque hueco de concreto. Además, ha participado activamente en dos patentes: un laboratorio especializado en evaluar el desempeño térmico de sistemas constructivos y un dispositivo didáctico para la visualización y comprensión del flujo de calor dependiente del tiempo.</p>
-</div>
-
-
-
-## Kevin Alquicira Hernández
-<div style="display: flex; align-items: center;">
-  <img src="images/canul2.png" alt="Descripción de la imagen" style="width: 150px; margin-right: 20px;">
-  <p>Técnico académico en el Instituto de Energías Renovables de la UNAM. Es  desarrollador de software desde hace 13 años. Sus áreas de aplicación en cómputo son como administrador de servidores linux, administrador de cómputo de alto rendimiento y administrador de sistemas.
-Gran parte de su experiencia profesional ha sido programando en Python para procesar grandes volúmenes de datos, scripts de automatización, administración de servidores y desarrollo de programas para análisis de datos.</p>
-</div>
-
-
-
-## Diego Arturo Canul Reyes
-
-<div style="display: flex; align-items: center;">
-  <img src="images/canul1.png" alt="Descripción de la imagen" style="width: 150px; margin-right: 20px;">
-  <p>Es Ingeniero en Energía por parte de la Universidad Autónoma de Campeche y Maestro en Ingeniería por el Instituto de Energías Renovables de la UNAM (IER-UNAM), obteniendo ambos grados con mención honorífica. Actualmente, es candidato a Doctor en Ingeniería en el IER-UNAM. Sus intereses profesionales están enfocados al análisis y modelado del recurso eólico utilizando datos experimentales y modelos meteorológicos, así como el análisis dinámico de turbinas eólicas flotantes. Es un apasionado de la programación en Python, del cual ha impartido diversos cursos desde lo básico hasta sus aplicaciones en
-ingeniería y es egresado de la “1ˢᵗ Advanced Scientific Programming in Python – Latin America” (ASPP LatAm)</p>
-</div>
-
 
 
 ### <a id="temario"></a>Temario
@@ -171,7 +136,6 @@ ingeniería y es egresado de la “1ˢᵗ Advanced Scientific Programming in Pyt
 - Por qué no Anaconda, ventajas y desventajas de Google Collaboratory
 - Instala y ejecuta Jupyter Notebook en diferentes OS
 - Ejercicio: Instala Jupyter notebook 
-
 <!-- ### Sesión 2 -->
 - Paseo por la libreta de Jupyter
 - Sintaxis en Python
@@ -179,7 +143,6 @@ ingeniería y es egresado de la “1ˢᵗ Advanced Scientific Programming in Pyt
 - Ejecuta Jupyter donde quieres
 - Estructura de archivos recomendada con numeración libretas
 - Ejercicio: print(“hola mundo”) con botones y shortcuts
-
 <!-- ### Sesión 3 -->
 - Acceso a la documentación
 - Errores comunes
@@ -190,11 +153,9 @@ ingeniería y es egresado de la “1ˢᵗ Advanced Scientific Programming in Pyt
 - Enteros, dobles, complejos
 - Cadenas
 - Booleanos
-
 <!-- ### Sesión 5 -->
 - Listas
 - Tuplas
-
 <!-- ### Sesión 6 -->
 - Iterables
 - Uso simple de print()
@@ -207,10 +168,8 @@ ingeniería y es egresado de la “1ˢᵗ Advanced Scientific Programming in Pyt
 - for
 - range
 - Uso de variables iterables en ciclos for 
-
 <!-- ### Sesión 8 -->
 - Funciones
-
 <!-- ### Sesión 9 -->
 - List comprehension
 - Magic commands 
@@ -226,12 +185,10 @@ ingeniería y es egresado de la “1ˢᵗ Advanced Scientific Programming in Pyt
 - df.info()
 - df.describe()
 - df.dtypes
-
 <!-- ### Sesión 11 -->
 - Operaciones y visualización de datos tipo x,y
 - Crear archivo x,y,error desde la libreta de Jupyter
 - Visualizar archivo con df.plot
-
 <!-- ### Sesión 12 -->
 - Operaciones y visualización de datos categóricos
 - Ejemplo del SNI
@@ -270,12 +227,8 @@ ingeniería y es egresado de la “1ˢᵗ Advanced Scientific Programming in Pyt
 - Lee una imagen con numpy
 - Lee una imagen con opencv
 - Visualiza una imagen con matplotlib
-
-
 - Localiza un círculo y su centro con opencv
 - Ejercicio: Localiza el centro de un conjunto de imágenes
-
-
 - Ejercicio: Calcula la velocidad y aceleración de caída de un objeto
 - Tips para calcular la velocidad
 
@@ -284,25 +237,19 @@ ingeniería y es egresado de la “1ˢᵗ Advanced Scientific Programming in Pyt
 - Quarto: convierte una libreta de Jupyter a un reporte
 - Ipywidgets para interacciones en la libreta de Jupyter
 - Instala iertools desde repositorios
-
-
 - Ejercicio: Propón un reporte de visualización de un archivo de clima
-
-
 - Revisión del reporte de visualización
 - Presentación de un ejemplo desarrollado en Quarto
 
 #### Día 3
 - Planteamiento del proyecto Patrones climáticos y su impacto en la demanda eléctrica
 - Presentación de los datos meteorológicos y de la demanda eléctrica
-- Cartopy - Ubicación espacial
+- Ubicación espacial con Cartopy
 - Identificación de las variables de interés (correlaciones entre la demanda y otras variables)
 - Análisis estadísticos y valores anómalos
-
 - Ajuste de polinomios entre la demanda y las variables 
 - Identificación de tendencias 
 - Diferentes visualizaciones: boxplots, violin, swarm, jointplot
-
 - Diferentes escalas temporales (heatmap)
 - Identificación de patrones
 
@@ -310,10 +257,8 @@ ingeniería y es egresado de la “1ˢᵗ Advanced Scientific Programming in Pyt
 - fig, ax, todo lo que necesitas saber de matplotlib
 - Bokeh
 - Ambientes virtuales
-
 - Numpy
 - Quarto para presentaciones y documentos ( Parte 2)
-
 - Datos categoricos avanzados
 - Desarrollo de proyecto
 
@@ -321,3 +266,33 @@ ingeniería y es egresado de la “1ˢᵗ Advanced Scientific Programming in Pyt
 - Presentación de proyectos
 - Cierre, recapitulación de buenas prácticas
 :::
+
+
+### <a id="instructores"></a>Conoce a los expertos
+#### Guillermo Barrios del Valle
+<div style="display: flex; align-items: center;">
+  <img src="images/memo.png" alt="Descripción de la imagen" style="height: 250px; margin-right: 20px;">
+  <p>Es ingeniero mecánico electricista por formación, maestro y doctor en ingeniería por la UNAM. Su especialidad es la transferencia de calor y ha orientado su investigación hacia los métodos numéricos para resolver problemas de transferencia de calor y masa en edificaciones y a la evaluación térmica y energética de edificaciones.
+    Su viaje en la programación comenzó con la necesidad de resolver problemas numéricos  de mecánica de fluidos y luego descubrió el poder de Python sus aplicaciones para realizar el análisis y monitoreo térmico y energético de edificaciones. Entusiasta de las tecnologías, de la visualización de datos, procafeína leyendo la documentación.
+    Guillermo Barrios ha contribuido significativamente al campo de la ingeniería con el desarrollo, junto con grupo de Energía en Edificaciones, quienes crearon EnerHabitat, una herramienta en línea y gratuita para evaluar el desempeño térmico de muros y techos en edificaciones. Su compromiso con la innovación se refleja en su coautoría del método EHLS, diseñado para implementar en EnergyPlus la transferencia de calor en sistemas constructivos no homogéneos, como es el caso del bloque hueco de concreto. Además, ha participado activamente en dos patentes: un laboratorio especializado en evaluar el desempeño térmico de sistemas constructivos y un dispositivo didáctico para la visualización y comprensión del flujo de calor dependiente del tiempo.</p>
+</div>
+
+
+
+#### Kevin Alquicira Hernández
+<div style="display: flex; align-items: center;">
+  <img src="images/kevin.png" alt="Descripción de la imagen" style="height: 250px; margin-right: 20px;">
+  <p>Técnico académico en el Instituto de Energías Renovables de la UNAM. Es  desarrollador de software desde hace 13 años. Sus áreas de aplicación en cómputo son como administrador de servidores linux, administrador de cómputo de alto rendimiento y administrador de sistemas.
+Gran parte de su experiencia profesional ha sido programando en Python para procesar grandes volúmenes de datos, scripts de automatización, administración de servidores y desarrollo de programas para análisis de datos.</p>
+</div>
+
+
+
+#### Diego Arturo Canul Reyes
+
+<div style="display: flex; align-items: center;">
+  <img src="images/diego.png" alt="Descripción de la imagen" style="height: 250px; margin-right: 20px;">
+  <p>Es Ingeniero en Energía por parte de la Universidad Autónoma de Campeche y Maestro en Ingeniería por el Instituto de Energías Renovables de la UNAM (IER-UNAM), obteniendo ambos grados con mención honorífica. Actualmente, es candidato a Doctor en Ingeniería en el IER-UNAM. Sus intereses profesionales están enfocados al análisis y modelado del recurso eólico utilizando datos experimentales y modelos meteorológicos, así como el análisis dinámico de turbinas eólicas flotantes. Es un apasionado de la programación en Python, del cual ha impartido diversos cursos desde lo básico hasta sus aplicaciones en
+ingeniería y es egresado de la “1ˢᵗ Advanced Scientific Programming in Python – Latin America” (ASPP LatAm)</p>
+</div>
+
