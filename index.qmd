@@ -9,7 +9,7 @@ format:
 
 image: "path/to/your/image.jpg" # Puedes añadir una imagen relevante
 ---
- 
+  
  
 
 <nav>
