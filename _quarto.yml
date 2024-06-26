@@ -2,13 +2,6 @@ project:
   type: website
 
 website:
-  title: "Python Bootcamp"
-  description: "Domina el manejo y visualización de series temporales"
   navbar:
     right:
       - text: "Home"
-        href: index.qmd
-      - text: "Ponentes"
-        href: about.qmd
-      - text: "Temario"
-        href: schedule.qmd

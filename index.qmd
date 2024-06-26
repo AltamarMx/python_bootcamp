@@ -1,22 +1,67 @@
 ---
 title: "Python Bootcamp"
-subtitle: "Aprende Python desde cero"
-author: "Organizado por [Tu Organización]"
-date: "`r Sys.Date()`"
-format: html
+subtitle: "Domina el manejo y visualización de series temporales"
+author: "IER-UNAM"
+date: "5 al 16 de agosto 2024"
+format:
+  html:
+    css: styles.css
+
 image: "path/to/your/image.jpg" # Puedes añadir una imagen relevante
 ---
+ 
+ 
 
-# Bienvenidos al Python Bootcamp
+<nav>
+  <ul style="list-style-type: none; padding: 0; display: flex; justify-content: space-around; background-color: #f2f2f2; margin-bottom: 20px;">
+    <li><a href="https://forms.gle/314S3BKSsb9DsqkZ9" style="padding: 10px 20px; display: block; text-decoration: none;">Inscribirme</a></li>
+  </ul>
+</nav>
+## Bootcamp de Python en 2 semanas
+<!-- 
+Python se ha posicionado como uno de los lenguajes más utilizados en la industria de la programación y de la ciencia de datos debido a su practicidad para el manejo de datos y series temporales, además de contar con diversas paqueterías especializadas en el análisis y visualización de datos.  -->
 
-Python se ha posicionado como uno de los lenguajes más utilizados en la industria de la programación y de la ciencia de datos debido a su practicidad para el manejo de datos y series temporales, además de contar con diversas paqueterías especializadas en el análisis y visualización de datos. 
+En este bootcamp de dos semanas aprenderás desde  instalar Python y Jupyter notebook hasta los pasos iniciales para dominar la visualización y herramientas útiles para el manejo y análisis de series temporales. 
 
-En este bootcamp de dos semanas aprenderás desde cómo instalar Python y Jupyter notebook hasta cómo dominar la visualización y herramientas útiles para el manejo y análisis de series temporales. 
-El bootcamp está dividido en dos partes, durante la semana 1 se aprenden los conceptos básicos de Python y de manejo de series temporales y cómo visualizarlas. En la semana 2 se abordan tres proyectos y las herramientas necesarias para desarrollarlo para alcanzar un expertiz en el manejo de series temporales.
+Puedes hacerlo de manera presencial o de manera remota. Las sesiones se llevan a cabo en Temixco, Morelos en el IER-UNAM o por sesiones de video conferencia.
+
+
+<nav>
+  <ul style="list-style-type: none; padding: 0; display: flex; justify-content: space-around; background-color: #f2f2f2; margin-bottom: 20px;">
+    <li><a href="https://forms.gle/314S3BKSsb9DsqkZ9" style="padding: 10px 20px; display: block; text-decoration: none;">Inscribirme</a></li>
+    <li><a href="#precios" style="padding: 10px 20px; display: block; text-decoration: none;">Precios</a></li>
+    <li><a href="#temario" style="padding: 10px 20px; display: block; text-decoration: none;">Temario</a></li>
+  </ul>
+</nav>
+
+
+::: {.callout-note }
+## Una o dos semanas
+El bootcamp está dividido en **dos partes**, durante la **semana 1** se aprenden los conceptos básicos de Python y de manejo de series temporales y cómo visualizarlas. En la **semana 2** se abordan tres proyectos y las herramientas necesarias para desarrollarlo para alcanzar un expertiz en el manejo de series temporales.
+:::
+
+::: {.callout-tip }
+## Semana Uno
+
+Aprenderás los conceptos básicos de Python, manejo de la libreta de Jupyter y el manejo básico y visualización de series temporales usando pandas y matplotlib.
+:::
+
+::: {.callout-tip }
+## Semana Dos
+
+Aprenderás estrategias avanzadas de pandas, numpy y matplotlib así como buenas estrategias de desarrollo de proyectos de ciencia de datos. Trabajarás en tres proyectos para consolidar lo aprendido.
+:::
+
+
+::: {.callout-note }
+## Recomendación
+
 
 Si inicias en Python, te recomendamos tomar las dos semanas, si ya tienes experiencia en los conceptos básicos puedes unirte en la segunda semana.
+:::
 
 
+<!-- 
 ## ¿Qué aprenderás?
 
 - Fundamentos de Python
@@ -24,13 +69,21 @@ Si inicias en Python, te recomendamos tomar las dos semanas, si ya tienes experi
 - Manipulación y análisis de datos con pandas
 - Visualización de datos
 - Principios de programación orientada a objetos
-- Buenas prácticas de desarrollo
+- Buenas prácticas de análisis de datos y desarrollo -->
 
 ## ¿Quiénes pueden participar?
 
 Estudiantes de tercer semestre de ingeniería en adelante
 
 Personas que requieran manejo y visualización de series temporales
+
+<nav>
+  <ul style="list-style-type: none; padding: 0; display: flex; justify-content: space-around; background-color: #f2f2f2; margin-bottom: 20px;">
+    <li><a href="https://forms.gle/314S3BKSsb9DsqkZ9" style="padding: 10px 20px; display: block; text-decoration: none;">Inscribirme</a></li>
+    <li><a href="#precios" style="padding: 10px 20px; display: block; text-decoration: none;">Precios</a></li>
+    <li><a href="#instructores" style="padding: 10px 20px; display: block; text-decoration: none;">Instructores</a></li>
+  </ul>
+</nav>
 
 
 ## ¿Cuándo y dónde?
@@ -48,15 +101,16 @@ Personas que requieran manejo y visualización de series temporales
 - Permisos de administrador  para poder instalar programas en la computadora
 - Familiaridad con series temporales
 
-## Precios
 
-### Bootcamp por semana
+### <a id="precios"></a>Precios
+
+##### Bootcamp por semana
 
 | Inversión general | Comunidad académica y exalumnos UNAM** | Comunidad estudiantil** |
 |-------------------|---------------------------------------|-------------------------|
 | $1,250 MXN*       | $1,000 MXN*                            | $750 MXN*               |
 
-### Bootcamp completo
+##### Bootcamp completo
 
 | Inversión general | Comunidad académica y exalumnos UNAM** | Comunidad estudiantil** |
 |-------------------|---------------------------------------|-------------------------|
@@ -71,3 +125,199 @@ Inscríbete [aquí](https://forms.gle/314S3BKSsb9DsqkZ9) para reservar tu lugar.
 ## Contacto
 
 Si tienes alguna pregunta, no dudes en [contactarnos](mailto:uec@ier.unam.mx).
+
+
+
+
+# Conoce a nuestros expertos
+
+## Guillermo Barrios del Valle
+<div style="display: flex; align-items: center;">
+  <img src="images/canul3.png" alt="Descripción de la imagen" style="width: 150px; margin-right: 20px;">
+  <p>Es ingeniero mecánico electricista por formación, maestro y doctor en ingeniería por la UNAM. Su especialidad es la transferencia de calor y ha orientado su investigación hacia los métodos numéricos para resolver problemas de transferencia de calor y masa en edificaciones y a la evaluación térmica y energética de edificaciones.
+    Su viaje en la programación comenzó con la necesidad de resolver problemas numéricos  de mecánica de fluidos y luego descubrió el poder de Python sus aplicaciones para realizar el análisis y monitoreo térmico y energético de edificaciones. Entusiasta de las tecnologías, de la visualización de datos, procafeína leyendo la documentación.
+    Guillermo Barrios ha contribuido significativamente al campo de la ingeniería con el desarrollo, junto con grupo de Energía en Edificaciones, quienes crearon EnerHabitat, una herramienta en línea y gratuita para evaluar el desempeño térmico de muros y techos en edificaciones. Su compromiso con la innovación se refleja en su coautoría del método EHLS, diseñado para implementar en EnergyPlus la transferencia de calor en sistemas constructivos no homogéneos, como es el caso del bloque hueco de concreto. Además, ha participado activamente en dos patentes: un laboratorio especializado en evaluar el desempeño térmico de sistemas constructivos y un dispositivo didáctico para la visualización y comprensión del flujo de calor dependiente del tiempo.</p>
+</div>
+
+
+
+## Kevin Alquicira Hernández
+<div style="display: flex; align-items: center;">
+  <img src="images/canul2.png" alt="Descripción de la imagen" style="width: 150px; margin-right: 20px;">
+  <p>Técnico académico en el Instituto de Energías Renovables de la UNAM. Es  desarrollador de software desde hace 13 años. Sus áreas de aplicación en cómputo son como administrador de servidores linux, administrador de cómputo de alto rendimiento y administrador de sistemas.
+Gran parte de su experiencia profesional ha sido programando en Python para procesar grandes volúmenes de datos, scripts de automatización, administración de servidores y desarrollo de programas para análisis de datos.</p>
+</div>
+
+
+
+## Diego Arturo Canul Reyes
+
+<div style="display: flex; align-items: center;">
+  <img src="images/canul1.png" alt="Descripción de la imagen" style="width: 150px; margin-right: 20px;">
+  <p>Es Ingeniero en Energía por parte de la Universidad Autónoma de Campeche y Maestro en Ingeniería por el Instituto de Energías Renovables de la UNAM (IER-UNAM), obteniendo ambos grados con mención honorífica. Actualmente, es candidato a Doctor en Ingeniería en el IER-UNAM. Sus intereses profesionales están enfocados al análisis y modelado del recurso eólico utilizando datos experimentales y modelos meteorológicos, así como el análisis dinámico de turbinas eólicas flotantes. Es un apasionado de la programación en Python, del cual ha impartido diversos cursos desde lo básico hasta sus aplicaciones en
+ingeniería y es egresado de la “1ˢᵗ Advanced Scientific Programming in Python – Latin America” (ASPP LatAm)</p>
+</div>
+
+
+
+### <a id="temario"></a>Temario
+::: {.panel-tabset}
+### Semana 1
+**Objetivo:** Aprender los conceptos básicos de Python, la libreta de Jupyter y el manejo básico y visualización de series temporales con Pandas y Matplotlib.
+
+#### Día 1
+<!-- ### Sesión 1 -->
+- Qué es Python y la libreta de Jupyter
+- Por qué no Anaconda, ventajas y desventajas de Google Collaboratory
+- Instala y ejecuta Jupyter Notebook en diferentes OS
+- Ejercicio: Instala Jupyter notebook 
+
+<!-- ### Sesión 2 -->
+- Paseo por la libreta de Jupyter
+- Sintaxis en Python
+- Tipos de celdas
+- Ejecuta Jupyter donde quieres
+- Estructura de archivos recomendada con numeración libretas
+- Ejercicio: print(“hola mundo”) con botones y shortcuts
+
+<!-- ### Sesión 3 -->
+- Acceso a la documentación
+- Errores comunes
+- Ejercicio: Crea un espacio de trabajo e imagina tu proceso con numeración de libretas, archivos de datos, resultados
+
+#### Día 2
+<!-- ### Sesión 4 -->
+- Enteros, dobles, complejos
+- Cadenas
+- Booleanos
+
+<!-- ### Sesión 5 -->
+- Listas
+- Tuplas
+
+<!-- ### Sesión 6 -->
+- Iterables
+- Uso simple de print()
+- Ejercicios con listas, tuplas y diccionarios
+
+#### Día 3
+<!-- ### Sesión 7 -->
+- if
+- while
+- for
+- range
+- Uso de variables iterables en ciclos for 
+
+<!-- ### Sesión 8 -->
+- Funciones
+
+<!-- ### Sesión 9 -->
+- List comprehension
+- Magic commands 
+- Ejercicios con list comprehensions
+
+#### Día 4
+- Introducción a pandas
+- Carga datos de csv y hojas de cálculo
+- df.read_csv
+- df.read_excel xls y xlsx
+- df.read_csv con fecha completa
+- df.read_csv con fecha separada
+- df.info()
+- df.describe()
+- df.dtypes
+
+<!-- ### Sesión 11 -->
+- Operaciones y visualización de datos tipo x,y
+- Crear archivo x,y,error desde la libreta de Jupyter
+- Visualizar archivo con df.plot
+
+<!-- ### Sesión 12 -->
+- Operaciones y visualización de datos categóricos
+- Ejemplo del SNI
+
+#### Día 5
+- Carga y visualiza series temporales
+- df.plot(subplots=True,figsize)
+- df[lista].plot()
+- df[fecha].plot()
+- df[fecha][lista].plot()
+- df.variable.plot()
+
+<!-- ### Sesión 14-->
+- Operaciones básicas con series temporales
+- df.sum() aclarar que se puede df.variable.sum() df[lista].sum(), df[fecha].variable.sum()
+- df.between_time
+- Une dos archivos o más
+- pd.concat y pd.merge con mismo indice temporal y diferente
+
+<!-- ### Sesión 15 -->
+- Introducción a matplotlib y POO
+
+### Semana 2
+**Objetivo:** Aprender estrategias avanzadas de Pandas, Numpy y Matplotlib así como buenas estrategias de desarrollo de proyectos de ciencia de datos mediante el desarrollo de tres proyectos.
+
+#### Día 1
+- Bienvenida y dinámica de la semana de proyectos
+- Repos con datos y plantillas
+- Post it por si requieren apoyo
+- Deben seleccionar un proyecto de los tres que se presentaran
+- Planteamiento del proyecto 
+- opencv
+- Extrae imágenes de un video
+- f-print para renombrar archivos
+- Escribir paquetes locales para uso en Jupyter
+- Lee una imagen con numpy
+- Lee una imagen con opencv
+- Visualiza una imagen con matplotlib
+
+
+- Localiza un círculo y su centro con opencv
+- Ejercicio: Localiza el centro de un conjunto de imágenes
+
+
+- Ejercicio: Calcula la velocidad y aceleración de caída de un objeto
+- Tips para calcular la velocidad
+
+#### Día 2
+- Planteamiento del proyecto de análisis y visualización meteorológica
+- Quarto: convierte una libreta de Jupyter a un reporte
+- Ipywidgets para interacciones en la libreta de Jupyter
+- Instala iertools desde repositorios
+
+
+- Ejercicio: Propón un reporte de visualización de un archivo de clima
+
+
+- Revisión del reporte de visualización
+- Presentación de un ejemplo desarrollado en Quarto
+
+#### Día 3
+- Planteamiento del proyecto Patrones climáticos y su impacto en la demanda eléctrica
+- Presentación de los datos meteorológicos y de la demanda eléctrica
+- Cartopy - Ubicación espacial
+- Identificación de las variables de interés (correlaciones entre la demanda y otras variables)
+- Análisis estadísticos y valores anómalos
+
+- Ajuste de polinomios entre la demanda y las variables 
+- Identificación de tendencias 
+- Diferentes visualizaciones: boxplots, violin, swarm, jointplot
+
+- Diferentes escalas temporales (heatmap)
+- Identificación de patrones
+
+#### Día 4
+- fig, ax, todo lo que necesitas saber de matplotlib
+- Bokeh
+- Ambientes virtuales
+
+- Numpy
+- Quarto para presentaciones y documentos ( Parte 2)
+
+- Datos categoricos avanzados
+- Desarrollo de proyecto
+
+#### Día 5
+- Presentación de proyectos
+- Cierre, recapitulación de buenas prácticas
+:::
