@@ -1,9 +1,7 @@
 project:
   type: website
   output-dir: docs  
-
-
-website:
-  navbar:
-    right:
-      - text: "Home"
+format:
+  html:
+    theme: superhero
+    css: styles.css
