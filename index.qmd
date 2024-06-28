@@ -104,6 +104,16 @@ Si inicias en Python, te recomendamos tomar las dos semanas, si ya tienes experi
 Si perteneces a la Comunidad estudiantil del IER UNAM, pregunta por los descuentos adicionales a los publicados
 :::
 
+
+<nav >
+  <ul style="list-style-type: none; padding: 0; display: flex; justify-content: space-around; background-color: #f2f2f2; margin-bottom: 20px;">
+    <li><a href="https://forms.gle/314S3BKSsb9DsqkZ9" style="padding: 10px 20px; display: block; text-decoration: none;">Inscribirme</a></li>
+    <li><a href="#precios" style="padding: 10px 20px; display: block; text-decoration: none;">Precios</a></li>
+    <li><a href="#instructores" style="padding: 10px 20px; display: block; text-decoration: none;">Instructores</a></li>
+  </ul>
+</nav>
+
+
 ### <a id="temario"></a>Temario
 ::: {.panel-tabset}
 ### Semana 1
