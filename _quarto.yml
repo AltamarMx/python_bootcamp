@@ -4,3 +4,4 @@ project:
 format:
   html:
     theme: superhero
+    include-in-header: include/ga.html
